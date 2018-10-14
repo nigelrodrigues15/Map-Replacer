@@ -1,4 +1,4 @@
-export default airports = [{
+export airports = [{
         "iata": "UTK",
         "lon": "169.86667",
         "iso": "MH",
