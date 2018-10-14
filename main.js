@@ -1,3 +1,3 @@
-import airports from './airport';
+import airports from './airport.js';
 
 console.log(airports)
