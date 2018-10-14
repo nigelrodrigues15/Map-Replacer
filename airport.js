@@ -1,4 +1,4 @@
-export const airports = [{
+const airports = [{
         "iata": "UTK",
         "lon": "169.86667",
         "iso": "MH",
@@ -73223,3 +73223,5 @@ export const airports = [{
         "size": "medium"
     }
 ];
+
+export {airports};
