@@ -73224,4 +73224,6 @@ const airports = [{
     }
 ];
 
-console.log(airports)
+for (var j = 0; j < document.getElementsByClassName('map-marker-label').length; j++) {
+  
+  }}
