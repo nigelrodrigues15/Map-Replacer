@@ -1,3 +1,3 @@
 import airports from './airport';
 
-console.log('airports')
+console.log(airports)
