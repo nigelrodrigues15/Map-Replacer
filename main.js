@@ -1,3 +1,3 @@
-import airports from './airports';
+// import airports from './airports';
 
-console.log(airports)
+console.log('airports')
