@@ -73224,4 +73224,4 @@ const airports = [{
     }
 ];
 
-export {airports};
+export { airports };
