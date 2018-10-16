@@ -1,4 +1,3 @@
-// get all images on the webpage
 const allImages = document.getElementsByTagName('img');
 // console.log(allImages);
 
