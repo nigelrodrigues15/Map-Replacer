@@ -1,7 +1,7 @@
 {
     "name": "Star Alliance Airports",
     "version": "1.0",
-    "description": "First project to build a chrome extension",
+    "description": "Show airport codes on star alliance maps",
     "manifest_version": 2,
     "icons": {
         "16": "images/get_started16.png",
