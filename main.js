@@ -1,4 +1,3 @@
-const allImages = document.getElementsByTagName('img');
 // console.log(allImages);
 
 
