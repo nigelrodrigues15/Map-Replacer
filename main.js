@@ -73225,5 +73225,7 @@ const airports = [{
 ];
 
 for (var j = 0; j < document.getElementsByClassName('map-marker-label').length; j++) {
+  code = [];
+  city = document.getElementsByClassName('map-marker-label')[j].innerHTML;
   
   }}
