@@ -1,6 +1,3 @@
-// console.log(allImages);
-
-
 for (var i = 0; i < allImages.length; i++) {
 
     var imageHeight = allImages[i].clientHeight;
