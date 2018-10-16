@@ -36,17 +36,3 @@ for (var i = 0; i < allImages.length; i++) {
 //   })
 //
 // }
-
-// for (var i = 0; i < allImages.length; i++) {
-//   allImages[i].addEventListener('click', function() {
-//     // //hiding the image
-//     // this.setAttribute('style', 'opacity: 0')
-//     // this.setAttribute('style', 'visibility: hidden')
-//     // //deleteing the image
-//     // this.remove()
-
-//     this.setAttribute('style', 'opacity: 0.1')
-//     this.setAttribute('style', 'filter: blur(5px)')
-
-//   })
-// }
