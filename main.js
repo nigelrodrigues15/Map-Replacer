@@ -22,17 +22,3 @@ for (var i = 0; i < allImages.length; i++) {
         'http://placedog.net/' + imageWidth + '/' + imageHeight);
 
 }
-
-// for (var i = 0; i < allImages.length; i++) {
-//   allImages[i].addEventListener('click', function() {
-//     console.log(this);
-//
-//     var thisImageHeight = this.clientHeight;
-//     var thisImageWidth = this.clientWidth;
-//
-//     this.setAttribute('src',
-//     'http://placedog.net/' + thisImageWidth + '/' + thisImageHeight );
-//
-//   })
-//
-// }
