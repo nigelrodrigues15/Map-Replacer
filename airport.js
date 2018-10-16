@@ -73223,5 +73223,3 @@ const airports = [{
         "size": "medium"
     }
 ];
-
-export { airports };
