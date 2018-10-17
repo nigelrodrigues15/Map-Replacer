@@ -73223,3 +73223,5 @@ const airports = [{
         "size": "medium"
     }
 ];
+
+console.log(airports)
