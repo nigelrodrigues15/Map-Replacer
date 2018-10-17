@@ -1,4 +1,4 @@
-const airports = [{
+airports = [{
         "iata": "UTK",
         "lon": "169.86667",
         "iso": "MH",
@@ -73223,7 +73223,7 @@ const airports = [{
         "size": "medium"
     }
 ];
-
+console.log("map-replacer")
 for (var j = 0; j < document.getElementsByClassName('map-marker-label').length; j++) {
     code = [];
     city = document.getElementsByClassName('map-marker-label')[j].innerHTML;
