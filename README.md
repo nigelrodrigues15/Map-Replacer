@@ -1,12 +1,12 @@
 # Map-Replacer
 
-This is a chrome extention that replaces all images on a webpage with dogs (can be replaced with any picture). It is served to be an introduction to creating web extensions. Image files and code tutorial was provided by Canada Learning Code.
+This is a chrome extention that replaces all countriess on the star alliance map webpage with airport codes. 
 
 ## Usage
 
 * Need to activate developer mode in Chrome in order to add the extension
 * `Load unpacked` and navigate to the project folder
-* Click on the extension icon when on desired webpage and all images will be replaced with dogs
+* Click on the extension icon when on desired webpage and all countries will be replaced with 
 
 ## Future Considerations
 
