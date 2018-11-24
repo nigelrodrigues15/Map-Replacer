@@ -10,3 +10,5 @@ This is a chrome extention that replaces all cities on the star alliance map web
 
 ## Future Considerations
 * New list of airports required with city as key
+
+## Issues
