@@ -9,6 +9,4 @@ This is a chrome extention that replaces all cities on the star alliance map web
 * Click on the extension icon when on desired webpage and all cities will be replaced with airport codes
 
 ## Future Considerations
-
-* Figure out how to distinguish between cities with the same name
 * New list of airports required with city as key
