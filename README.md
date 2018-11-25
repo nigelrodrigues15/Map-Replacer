@@ -10,7 +10,7 @@ This is a chrome extention that replaces all cities on the star alliance map web
 
 ## Future Considerations
 * New list of airports required with city as key
-* can be used to replace text
+* Can be used to replace text in any key tag in HTML to something found in JSON
 
 ## Issues
 * No real way to distinguish between cities with the same name (ie. London, UK and London, Canada)
